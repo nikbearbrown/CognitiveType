@@ -1,0 +1,2 @@
+# CognitiveType
+CognitiveType
