@@ -141,6 +141,12 @@ Web and UI-based systems like Glyphs, FontLab, and RoboFont offer a graphical us
 
 These tools collectively represent a spectrum of options for typeface design, from web-based applications that democratize the design process to professional-grade software offering deep customization and precision. Each has its unique strengths, catering to different needs within the typographic community.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Cognitive_Type_Figure_7.png"></td>
+  </tr>
+</table>
+
 ### Variable Fonts
 
 Variable fonts, also known as OpenType Font Variations, represent a significant advancement in font technology by allowing the customization of a font's appearance along multiple axes of variation. This flexibility means that instead of being restricted to a set number of pre-designed font weights, widths, and styles, users can fine-tune a font's characteristics to meet their specific needs. This capability not only enhances creative freedom but also optimizes efficiency, particularly in web typography, by consolidating multiple font variations into a single file, thus reducing overall file size.
