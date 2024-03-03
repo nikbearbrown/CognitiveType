@@ -146,6 +146,12 @@ Variable fonts are a powerful movement in typography, suited for creating font f
 
 Defining a custom axis involves not only programming knowledge but also a deep understanding of typography and typeface design. It is a more advanced task that usually requires an experienced typographer or typeface designer. Creating a custom axis involves defining what the axis will control, designing the typeface variations that correspond to different values along the axis, and correctly implementing these variations within the font file itself. This process involves using font creation software such as Glyphs, FontLab, or RoboFont, which allows the designer to draw, interpolate, and test custom variations, extending beyond simple parameter adjustments into the realm of creative and technical typeface design.
 
+### Generative Models and Deep Learning
+
+Neural Networks, particularly disentangled β-VAEs, can be used to identify latent features representing typeface letterforms, allowing for the potential discovery of new attributes for type classification (Issak et al., 2023). Our work in this area emphasizes that mapping the learned features of a model can reverse current heuristics and provide typographers with a new perspective on font classification. However, these models are sensitive to model structure, and much more needs to be done in this area to use this approach to extend existing type classification systems.
+
+Our work using simple generative models showed that one can create a dataset of glyphs similar to those in Google Fonts (Magre, N., & Brown, N., 2022). This "TMINST" was composed of 565,292 MNIST-style grayscale images representing 1,812 unique glyphs across various styles of 1,355 Google fonts. While we can create many high-quality glyphs, we don’t have the prompting control of "text to image" foundational models like DALL·E and Stable Diffusion. Our belief is that while the approaches listed above are critical to training a "text to type" foundational model, the creation of such a model would allow anyone, including non-programmers and non-typographers, to create precise and detailed glyphs for the design of typefaces. In particular, to design "Cognitive Type" to be used by scientists to assess how differences in type affect cognition.
+
 ## References for Cognitive Type
 
 1. Beier, S., and Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Inf. Design J.*, 20, 16–31. doi: 10.1075/idj.20.1.02bei
