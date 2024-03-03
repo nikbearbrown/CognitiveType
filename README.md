@@ -167,10 +167,21 @@ Variable fonts or OpenType Font Variations offer an innovative approach to typog
   - **CSS Attribute:** `font-weight`
   - **Description:** Controls the thickness of the font strokes, offering a continuous range from light to bold. Instead of limited options like "normal" or "bold," any value within the font's weight range can be specified.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Variable_Fonts_weight.png"></td>
+  </tr>
+</table>
+
 - **Slant (slnt)**
   - **CSS Attribute:** `font-style` for oblique styles, `font-variation-settings` for specific slant angles.
   - **Description:** Provides a degree of slant to the font, without changing to italic letterforms. Useful for a subtle emphasis or stylistic choice.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Variable_Fonts_Slant.png"></td>
+  </tr>
+</table>
 Using these CSS properties, designers can finely tune the appearance of text on web and mobile platforms, significantly enhancing design flexibility, performance, and accessibility of digital products.
 
 Variable fonts are a powerful movement in typography, suited for creating font families through control of existing weight and slant parameters like (wght, wdth, slnt, ital, opsz). Adjusting the existing standard axes like weight (wght), width (wdth), slant (slnt), etc., can be done through parameters in CSS by anyone with basic knowledge of web development and design. These predefined axes are part of the OpenType specification and are included by the font designer within the variable font file.
