@@ -28,8 +28,6 @@ These methods can be used individually or in combination to provide a comprehens
 
 # References for Cognitive Type
 
-Here are the combined references, sorted alphabetically:
-
 1. Beier, S., and Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Inf. Design J.*, 20, 16–31. doi: 10.1075/idj.20.1.02bei
 2. Beier, S., Sand, K., and Starrfelt, R. (2017). Legibility implications of embellished display typefaces. *Visible Lang.*, 51, 112–133.
 3. Bessemans, A. (2016a). Typefaces for children’s reading. *TMG J. Media Hist.*, 19, 1–9. doi: 10.18146/2213-7653.2016.268
