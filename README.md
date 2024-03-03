@@ -12,7 +12,7 @@ Finally, we are constructing a foundational model, inspired by AI systems like M
 
 Reading serves as a crucial mechanism for information acquisition and learning. The structure of letters and the overall design of typography play significant roles in the legibility of text, the clarity of information presentation, and the fluency of reading experiences. Research highlights the influence of typography on these aspects (Beier et al., 2017; Brath and Banissi, 2016; Gasser et al., 2005; Beier and Larson, 2013; Cacali, 2016; Bessemans, 2016a,b). A deeper understanding of how font types affect recall and comprehension is essential for effectively conveying critical information. Studies have indicated that serif fonts tend to facilitate better recall of information than sans serif fonts, suggesting the profound impact font choice can have on readability and comprehension. While the selection of fonts may seem arbitrary, it's clear that different typefaces yield distinct cognitive outcomes, with certain ones enhancing readability and aesthetic appeal more significantly. Despite this, the specific visual attributes of typefaces, such as serif styles or x-heights, and their direct effects on readability and aesthetic quality, have not been thoroughly investigated. This gap in research underscores the need for further exploration into how typography can optimize the reading experience and information retention.
 
-### Assessing the Cognitive Properties of Text
+## Assessing the Cognitive Properties of Text
 
 Assessing the cognitive properties of text involves a variety of established techniques, each designed to measure how textual characteristics influence comprehension, recall, and engagement. These techniques include:
 
@@ -31,9 +31,9 @@ These methods can be used individually or in combination to provide a comprehens
 
 It is widely acknowledged that typefaces impact cognitive processes. However, the development of new typefaces is notoriously labor-intensive. The Abecedarian Classification of Typefaces (Brown, N., 2024) outlines a multitude of dimensions influencing typeface style. To determine which dimensions influence cognition, researchers require a method to efficiently produce characters with particular traits. While text-to-image models such as Midjourney and DALL·E have yielded impressive visuals, they lack training in the nuances of typography and tend to produce generic characters rather than typefaces with specific features. Creating figures like those in Haralambous, Y. (2007) would be challenging using general-purpose text-to-image models like Midjourney, DALL·E, or Bing Image Creator, as they do not specialize in typographic nuances.
 
-### Creating Datasets Suitable for Assessing the Cognitive Properties of Typefaces
+## Creating Datasets Suitable for Assessing the Cognitive Properties of Typefaces
 
-#### Progamatic Typography
+### Progamatic Typography
 
 The realm of programmatic typography offers an intriguing avenue for the creation of typographic art, leveraging the power of code to draw and design. Tools such as Processing, p5.js, OpenFrameworks, NodeBox, and Cinder enable designers and programmers alike to experiment with and prototype unique typographic forms and patterns. Processing, for instance, is an accessible platform that introduces beginners to the creation of glyphs through simple coding principles, emphasizing experimentation over precision. Similarly, p5.js facilitates the creation of web-based and interactive typographic elements, making it an excellent tool for integrating typography with web technologies. 
 
@@ -53,6 +53,34 @@ Geared towards generative design, excellent for crafting complex typographic for
 
 **Cinder:** 
 A C++ library for creating intricate glyph shapes but is not specifically geared towards typography. Requires experienced C++ programmers.
+
+### Typography-Specific Programming Languages
+
+Metafont is a description language used to define raster fonts. It is also the name of the interpreter that executes Metafont code, generating bitmap fonts that can be embedded into, for example, PostScript. Metafont was devised by Donald Knuth as a companion to his TeX typesetting system.
+
+**Metafont:**
+- **Purpose:** A language designed specifically for creating bitmap fonts.
+- **Creator:** Devised by Donald Knuth as a complement to the TeX typesetting system.
+- **Functionality:** Allows designers to define fonts programmatically with adjustable parameters and geometric equations.
+- **Output:** Produces bitmap fonts, which are made up of pixels, making them resolution-dependent.
+- **Specialization:** Uniquely tailored for typographic tasks, enabling the design of fonts through mathematical descriptions.
+- **Integration:** Primarily used with TeX, providing a high degree of control over how characters are rendered in documents typeset with TeX.
+
+MetaPost refers to both a programming language and the interpreter of the MetaPost programming language. Both are derived from Donald Knuth's Metafont language and interpreter. MetaPost produces vector graphic diagrams from a geometric/algebraic description. The language shares Metafont's declarative syntax for manipulating lines, curves, points, and geometric transformations.
+
+**MetaPost:**
+- **Purpose:** Based on Metafont, it focuses on creating precise technical illustrations and vector graphics.
+- **Functionality:** Utilizes a similar syntax to Metafont but produces vector graphics, which are scalable and resolution-independent.
+- **Output:** Generates diagrams and figures in PostScript, commonly used in technical and scientific documents.
+- **Specialization:** Like Metafont, it is specialized for graphical tasks, particularly line drawings, which complements typographic designs.
+- **Flexibility:** Can be used to draw shapes, plots, and various illustrations with mathematical precision, often used in academic and research settings.
+
+Both Metafont and MetaPost stand out in the realm of programming languages for their dedicated focus on typography and graphics, respectively. This specialization is rare among programming languages, which are more commonly designed for a broad range of computing tasks. Metafont and MetaPost offer a unique approach to design that is closely aligned with the mathematical precision and programmability required for high-quality typographic and illustrative work.
+
+However, to program in Metafont and MetaPost, an understanding of geometry, algebra, and Bézier curves is essential. Knowledge of these mathematical concepts enables users to craft detailed and sophisticated designs by specifying exact mathematical descriptions of the shapes. Metafont and MetaPost scripts often resemble mathematical formulas, which describe the paths and points that make up the characters and graphics.
+
+For this reason, the Cognitive Type project uses Metafont and MetaPost to create typographic training sets for generative models but feels it is unlikely to be adopted by typographers or cognitive scientists. Despite the collaboration of well-known type designers like Hermann Zapf with Knuth to create new fonts using Metafont, the system has not been widely adopted by professional type designers. Knuth attributes this to the complexity of requiring an artist to become proficient in mathematics to write a font with 60 parameters. Jonathan Hoefler commented that the Metafont system ultimately became "a technology behind zero of your favorite fonts." The Cognitive Type project is currently raising money to hire a Metafont and MetaPost programmer that can programmatically create millions of glyphs based on the Abecedarian Classification of Typefaces (Brown, N., 2024) for the training of "text to type" foundation models.
+
 
 ## References for Cognitive Type
 
