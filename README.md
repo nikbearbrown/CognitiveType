@@ -81,6 +81,41 @@ However, to program in Metafont and MetaPost, an understanding of geometry, alge
 
 For this reason, the Cognitive Type project uses Metafont and MetaPost to create typographic training sets for generative models but feels it is unlikely to be adopted by typographers or cognitive scientists. Despite the collaboration of well-known type designers like Hermann Zapf with Knuth to create new fonts using Metafont, the system has not been widely adopted by professional type designers since its creation in 1982. Knuth attributes this to the complexity of requiring an artist to become proficient in mathematics to write a font with 60 parameters. Jonathan Hoefler commented that the Metafont system ultimately became "a technology behind zero of your favorite fonts." The Cognitive Type project is currently raising money to hire a Metafont and MetaPost programmer that can programmatically create millions of glyphs based on the Abecedarian Classification of Typefaces (Brown, N., 2024) for the training of "text to type" foundation models.
 
+### Hybrid Font Design Tools
+
+Web and UI-based systems like Glyphs, FontLab, and RoboFont offer a graphical user interface for designing typefaces and allow for some level of scripting to extend functionality. These are powerful tools for making changes to typefaces, creating typefaces, and producing small datasets for generative models but still require learning the tools and making changes glyph by glyph.
+
+**Metapolator:**
+- **Description:** An open web tool aimed at streamlining the process of creating multiple fonts. It introduces an innovative approach by enabling work within a font design space, allowing designers to manage and manipulate many fonts simultaneously rather than focusing on individual glyphs or faces.
+- **Features:** Supports a broad, project-level view of font design, facilitating rapid experimentation and development of font families.
+- **Platform:** Web-based, accessible from any platform with internet access.
+- **Scripting:** While primarily UI-driven, the open nature of Metapolator suggests potential for customization and extension by users familiar with web technologies.
+- **Licensing:** The project and its fonts are under the GNU General Public License v3.0 (GPL), encouraging use and extension of the source code.
+
+**Metaflop:**
+- **Description:** An accessible web tool for creating and modifying typefaces based on Metafont principles. It allows users to adjust font parameters through a user-friendly interface, generating unique typefaces.
+- **Features:** Provides a modulator interface where users can tweak various aspects of a font's appearance through sliders and controls, effectively applying Metafont's parametric design principles.
+- **Platform:** Web-based, ensuring wide accessibility without the need for specific operating system compatibility.
+- **Scripting:** Leverages Metafont for backend processing, with the UI serving to abstract complex coding tasks into intuitive visual adjustments.
+- **Licensing:** Source code and generated fonts are licensed under the GNU General Public License v3.0 (GPL), promoting open use and community contributions.
+
+**Glyphs:**
+- **Description:** User-friendly software with a robust set of features for font design, scriptable with Python.
+- **Platform:** macOS-specific, requiring purchase.
+- **Features:** Offers a good balance for both beginners and professionals with its intuitive design and scripting capabilities.
+
+**FontLab:**
+- **Description:** Professional software providing an extensive toolkit for crafting and refining typefaces.
+- **Platform:** Proprietary, with a cost associated with its use.
+- **Features:** Generates production-ready fonts and allows Python scripting for advanced customization.
+
+**RoboFont:**
+- **Description:** Provides a highly customizable interface for designing glyphs, with Python scripting for extensive functionality.
+- **Platform:** macOS exclusive, designed to fit into a modular design workflow.
+- **Features:** Its clean UI and scripting capabilities make it versatile, though it may present a learning curve for non-coders.
+
+These tools collectively represent a spectrum of options for typeface design, from web-based applications that democratize the design process to professional-grade software offering deep customization and precision. Each has its unique strengths, catering to different needs within the typographic community.
+
 
 ## References for Cognitive Type
 
