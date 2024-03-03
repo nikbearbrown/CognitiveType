@@ -28,7 +28,7 @@ Assessing the cognitive properties of text involves a variety of established tec
 These methods can be used individually or in combination to provide a comprehensive understanding of how different aspects of text affect cognitive processing, engagement, and overall reading experience.
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/v"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Tobii-Pro-Glasses.png"></td>
   </tr>
 </table>
 
