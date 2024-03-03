@@ -6,3 +6,24 @@ Our research is committed to generating publicly available datasets and establis
 
 Finally, we are constructing a foundational model, inspired by AI systems like Midjourney and DALL·E, to facilitate the creation of an open-source text-to-type model. This model will enable typographers or researchers to specify the visual characteristics of a font, such as serif type, x-height, or bowl shape, translating the complex terminology of typeface classification into clear images for integration into typography software like FontForge or use in cognitive studies.
 
+## Introduction 
+
+Reading serves as a crucial mechanism for information acquisition and learning. The structure of letters and the overall design of typography play significant roles in the legibility of text, the clarity of information presentation, and the fluency of reading experiences. Research highlights the influence of typography on these aspects (Beier et al., 2017; Brath and Banissi, 2016; Gasser et al., 2005; Beier and Larson, 2013; Cacali, 2016; Bessemans, 2016a,b). A deeper understanding of how font types affect recall and comprehension is essential for effectively conveying critical information. Studies have indicated that serif fonts tend to facilitate better recall of information than sans serif fonts, suggesting the profound impact font choice can have on readability and comprehension. While the selection of fonts may seem arbitrary, it's clear that different typefaces yield distinct cognitive outcomes, with certain ones enhancing readability and aesthetic appeal more significantly. Despite this, the specific visual attributes of typefaces, such as serif styles or x-heights, and their direct effects on readability and aesthetic quality, have not been thoroughly investigated. This gap in research underscores the need for further exploration into how typography can optimize the reading experience and information retention.
+
+### Assessing the Cognitive Properties of Text
+
+Assessing the cognitive properties of text involves a variety of established techniques, each designed to measure how textual characteristics influence comprehension, recall, and engagement. These techniques include:
+
+- **Eye Tracking:** Measures where and for how long a reader looks at different parts of a text, providing insights into reading patterns, comprehension difficulties, and interests.
+- **Reading Speed Tests:** Evaluate how quickly text can be read while maintaining comprehension. This can help in understanding the legibility and readability of different fonts or layouts.
+- **Recall and Comprehension Tests:** After reading, participants are asked to recall information or answer questions about the text. This assesses how well information is understood and retained.
+- **Dual-Task Methodology:** Involves having participants perform a secondary task while reading to measure cognitive load. The impact of text layout or typography on cognitive effort can be evaluated by how it affects performance on the secondary task.
+- **fMRI and EEG:** Neuroimaging techniques like functional Magnetic Resonance Imaging (fMRI) and Electroencephalography (EEG) can observe brain activity in response to reading text. These methods can uncover the neural correlates of language processing and cognitive engagement.
+- **Think-Aloud Protocols:** Participants verbalize their thoughts while reading, offering insights into their cognitive processes, strategies, and areas of difficulty.
+- **Usability Testing:** In the context of digital texts, usability tests can assess how easily users can navigate, find information, and fulfill tasks, highlighting the cognitive impact of design choices.
+- **A/B Testing:** Comparing two versions of a text to see which performs better in terms of reader engagement, comprehension, or preference. This can be particularly useful in digital environments for optimizing content presentation.
+
+These methods can be used individually or in combination to provide a comprehensive understanding of how different aspects of text affect cognitive processing, engagement, and overall reading experience.
+
+
+
