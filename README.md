@@ -104,6 +104,12 @@ Both Metafont and MetaPost stand out in the realm of programming languages for t
 
 However, to program in Metafont and MetaPost, an understanding of geometry, algebra, and Bézier curves is essential. Knowledge of these mathematical concepts enables users to craft detailed and sophisticated designs by specifying exact mathematical descriptions of the shapes. Metafont and MetaPost scripts often resemble mathematical formulas, which describe the paths and points that make up the characters and graphics.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/METAFONT_Beta.png"></td>
+  </tr>
+</table>
+
 For this reason, the Cognitive Type project uses Metafont and MetaPost to create typographic training sets for generative models but feels it is unlikely to be adopted by typographers or cognitive scientists. Despite the collaboration of well-known type designers like Hermann Zapf with Knuth to create new fonts using Metafont, the system has not been widely adopted by professional type designers since its creation in 1982. Knuth attributes this to the complexity of requiring an artist to become proficient in mathematics to write a font with 60 parameters. Jonathan Hoefler commented that the Metafont system ultimately became "a technology behind zero of your favorite fonts." The Cognitive Type project is currently raising money to hire a Metafont and MetaPost programmer that can programmatically create millions of glyphs based on the Abecedarian Classification of Typefaces (Brown, N., 2024) for the training of "text to type" foundation models.
 
 ### Hybrid Font Design Tools
