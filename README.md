@@ -116,6 +116,35 @@ Web and UI-based systems like Glyphs, FontLab, and RoboFont offer a graphical us
 
 These tools collectively represent a spectrum of options for typeface design, from web-based applications that democratize the design process to professional-grade software offering deep customization and precision. Each has its unique strengths, catering to different needs within the typographic community.
 
+### Variable Fonts
+
+Variable fonts, also known as OpenType Font Variations, represent a significant advancement in font technology by allowing the customization of a font's appearance along multiple axes of variation. This flexibility means that instead of being restricted to a set number of pre-designed font weights, widths, and styles, users can fine-tune a font's characteristics to meet their specific needs. This capability not only enhances creative freedom but also optimizes efficiency, particularly in web typography, by consolidating multiple font variations into a single file, thus reducing overall file size.
+
+#### Common Axes of Variation in Variable Fonts:
+- **Weight (wght):** Controls the thickness of the strokes, ranging from thin to black. This axis allows for fine-tuning between light and bold appearances.
+- **Width (wdth):** Adjusts the overall width of the font characters, from condensed to expanded, affecting the text's occupancy on a page or screen.
+- **Slant (slnt):** Modifies the angle of the font, simulating italic styles without needing a separate italic font file. This axis tilts the letters to the right but differs from true italics in that it doesn't change the letterforms' design.
+- **Italic (ital):** Enables a switch between upright and italic styles. Unlike slant, this axis can trigger a change to true italic letterforms if the font supports it.
+- **Optical Size (opsz):** Adjusts the font's appearance for different text sizes, optimizing legibility across a range of sizes by altering character spacing, weight, and other details.
+- **X-Height (xhgt):** Influences the height of lowercase letters relative to the font's overall size, affecting legibility and the visual density of text.
+
+These axes can be combined within a single variable font file, offering unprecedented control over typography with the potential for additional custom axes defined by type designers. The introduction of variable fonts thus marks a transformative shift in the way fonts are used and managed, particularly in digital contexts where flexibility and efficiency are paramount.
+
+Variable fonts or OpenType Font Variations offer an innovative approach to typography by allowing designers and developers to adjust font characteristics dynamically through CSS. Here's how the primary axes of variation in variable fonts are manipulated using CSS:
+
+- **Weight (wght)**
+  - **CSS Attribute:** `font-weight`
+  - **Description:** Controls the thickness of the font strokes, offering a continuous range from light to bold. Instead of limited options like "normal" or "bold," any value within the font's weight range can be specified.
+
+- **Slant (slnt)**
+  - **CSS Attribute:** `font-style` for oblique styles, `font-variation-settings` for specific slant angles.
+  - **Description:** Provides a degree of slant to the font, without changing to italic letterforms. Useful for a subtle emphasis or stylistic choice.
+
+Using these CSS properties, designers can finely tune the appearance of text on web and mobile platforms, significantly enhancing design flexibility, performance, and accessibility of digital products.
+
+Variable fonts are a powerful movement in typography, suited for creating font families through control of existing weight and slant parameters like (wght, wdth, slnt, ital, opsz). Adjusting the existing standard axes like weight (wght), width (wdth), slant (slnt), etc., can be done through parameters in CSS by anyone with basic knowledge of web development and design. These predefined axes are part of the OpenType specification and are included by the font designer within the variable font file.
+
+Defining a custom axis involves not only programming knowledge but also a deep understanding of typography and typeface design. It is a more advanced task that usually requires an experienced typographer or typeface designer. Creating a custom axis involves defining what the axis will control, designing the typeface variations that correspond to different values along the axis, and correctly implementing these variations within the font file itself. This process involves using font creation software such as Glyphs, FontLab, or RoboFont, which allows the designer to draw, interpolate, and test custom variations, extending beyond simple parameter adjustments into the realm of creative and technical typeface design.
 
 ## References for Cognitive Type
 
