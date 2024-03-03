@@ -1,6 +1,5 @@
 # References for Cognitive Type
 
-Here is the list of references formatted for clarity:
 
 1. Abukaber, A. A., and Lu, J. (2012). The optimum font size and type for students aged 9–12 reading Arabic characters on screen: a case study. *J. Phys. Conf. Ser.*, 364, 1–14. doi: 10.1088/1742-6596/364/1/012115
 2. Ali, A. Z. M., Wahid, R., Samsudin, K., and Dris, M. Z. (2013). Reading on the computer screen: does font type has effects on web text readability? *Int. Educ. Stud.*, 6, 26–35. doi: 10.5539/ies.v6n3p26
