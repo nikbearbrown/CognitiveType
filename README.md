@@ -31,6 +31,27 @@ These methods can be used individually or in combination to provide a comprehens
 
 It is widely acknowledged that typefaces impact cognitive processes. However, the development of new typefaces is notoriously labor-intensive. The Abecedarian Classification of Typefaces (Brown, N., 2024) outlines a multitude of dimensions influencing typeface style. To determine which dimensions influence cognition, researchers require a method to efficiently produce characters with particular traits. While text-to-image models such as Midjourney and DALL·E have yielded impressive visuals, they lack training in the nuances of typography and tend to produce generic characters rather than typefaces with specific features. Creating figures like those in Haralambous, Y. (2007) would be challenging using general-purpose text-to-image models like Midjourney, DALL·E, or Bing Image Creator, as they do not specialize in typographic nuances.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://github.com/nikbearbrown/CognitiveType/blob/main/Art/Font_Properties_Figure_1.png?style=raw"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/nikbearbrown/CognitiveType/blob/main/Art/Font_Properties_Figure_2.png?style=raw"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/nikbearbrown/CognitiveType/blob/main/Art/Font_Properties_Figure_3.png?style=raw"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/nikbearbrown/CognitiveType/blob/main/Art/Font_Properties_Figure_4.png?style=raw"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/nikbearbrown/CognitiveType/blob/main/Art/Font_Properties_Figure_5.png?style=raw"></td>
+  </tr>
+</table>
+
+
+
+
 ## Creating Datasets Suitable for Assessing the Cognitive Properties of Typefaces
 
 In the quest to create datasets suitable for assessing the cognitive properties of typefaces, the Cognitive Type Project has embarked on an exploratory journey utilizing a variety of innovative tools and methodologies. The project has delved into the realms of Programmatic Typography, Typography-Specific Programming Languages, Hybrid Font Design Tools, Variable Fonts, and Generative Models and Deep Learning. Each of these avenues offers unique capabilities and insights into the intricate relationship between typography and cognition. The use of MetaFont, a program designed to define and generate bitmap fonts, has been instrumental in creating typefaces that can be finely tuned to explore cognitive impacts. This approach, rooted in mathematical descriptions of typeface anatomy, allows for an unprecedented level of precision in font design.
