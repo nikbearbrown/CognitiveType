@@ -25,8 +25,34 @@ Assessing the cognitive properties of text involves a variety of established tec
 
 These methods can be used individually or in combination to provide a comprehensive understanding of how different aspects of text affect cognitive processing, engagement, and overall reading experience.
 
+## Difficulties in Assessing the Cognitive Properties of Typefaces
 
-# References for Cognitive Type
+It is widely acknowledged that typefaces impact cognitive processes. However, the development of new typefaces is notoriously labor-intensive. The Abecedarian Classification of Typefaces (Brown, N., 2024) outlines a multitude of dimensions influencing typeface style. To determine which dimensions influence cognition, researchers require a method to efficiently produce characters with particular traits. While text-to-image models such as Midjourney and DALL·E have yielded impressive visuals, they lack training in the nuances of typography and tend to produce generic characters rather than typefaces with specific features. Creating figures like those in Haralambous, Y. (2007) would be challenging using general-purpose text-to-image models like Midjourney, DALL·E, or Bing Image Creator, as they do not specialize in typographic nuances.
+
+### Creating Datasets Suitable for Assessing the Cognitive Properties of Typefaces
+
+#### Progamatic Typography
+
+The realm of programmatic typography offers an intriguing avenue for the creation of typographic art, leveraging the power of code to draw and design. Tools such as Processing, p5.js, OpenFrameworks, NodeBox, and Cinder enable designers and programmers alike to experiment with and prototype unique typographic forms and patterns. Processing, for instance, is an accessible platform that introduces beginners to the creation of glyphs through simple coding principles, emphasizing experimentation over precision. Similarly, p5.js facilitates the creation of web-based and interactive typographic elements, making it an excellent tool for integrating typography with web technologies. 
+
+However, the creation of typefaces suitable for cognitive type—that is, typefaces designed with the understanding of how typographic form affects cognition—presents a more complex challenge. These tools, while wonderful for artistic endeavors, require a substantial amount of programming work to produce typefaces that are both aesthetically pleasing and functionally effective for cognitive purposes. OpenFrameworks and Cinder, with their extensive graphics libraries and capabilities for high-performance design, offer powerful resources for the creation of intricate glyph shapes. Yet, their steep learning curves and the necessity for experienced programming skills may pose barriers to those focusing solely on typography. NodeBox, with its Python-based platform geared towards generative design, excels in creating complex forms and is similarly positioned more towards typographic art than practical typeface development for cognitive applications. In essence, while these tools open up vast possibilities for artistic expression within typographic design, bridging the gap between artistic experimentation and the practical creation of typefaces optimized for cognitive enhancement remains a significant endeavor, necessitating a deep integration of design principles, cognitive science, and programming expertise.
+
+**Processing:** 
+Enables beginners to create glyphs using simple coding principles, focusing on experimentation and prototyping. Processing is better suited to typographic art than cognitive type.
+
+**p5.js:** 
+Allows for the creation of web-based and interactive typographic elements using JavaScript. It integrates easily with web technologies but is not well-suited for creating complete, production-ready fonts.
+
+**OpenFrameworks:** 
+A C++ toolkit for high-performance typographic design. Offers a broad graphics library but has a steeper learning curve and is not focused on typography.
+
+**NodeBox:** 
+Geared towards generative design, excellent for crafting complex typographic forms and patterns. It is Python-based and open-source but more suited to typographic art than cognitive type.
+
+**Cinder:** 
+A C++ library for creating intricate glyph shapes but is not specifically geared towards typography. Requires experienced C++ programmers.
+
+## References for Cognitive Type
 
 1. Beier, S., and Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Inf. Design J.*, 20, 16–31. doi: 10.1075/idj.20.1.02bei
 2. Beier, S., Sand, K., and Starrfelt, R. (2017). Legibility implications of embellished display typefaces. *Visible Lang.*, 51, 112–133.
