@@ -224,7 +224,7 @@ Such a model would not only understand typographic terminology (see Figure 11) b
 - Creating a Cyrillic character set that harmonizes visually with existing Latin characters, using diagonal stress and similar stroke weights.
 - Designing a numeral '4' with a closed counter for better legibility at smaller sizes.
 - Generating swash characters for uppercase 'A' and 'E' that add decorative touches while preserving legibility.
-- 
+ 
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Cognitive_Type_Figure_11.png"></td>
