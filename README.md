@@ -197,6 +197,12 @@ Using these CSS properties, designers can finely tune the appearance of text on 
 
 Variable fonts are a powerful movement in typography, suited for creating font families through control of existing weight and slant parameters like (wght, wdth, slnt, ital, opsz). Adjusting the existing standard axes like weight (wght), width (wdth), slant (slnt), etc., can be done through parameters in CSS by anyone with basic knowledge of web development and design. These predefined axes are part of the OpenType specification and are included by the font designer within the variable font file.
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Cognitive_Type_Figure_10.png"></td>
+  </tr>
+</table>
+
 Defining a custom axis involves not only programming knowledge but also a deep understanding of typography and typeface design. It is a more advanced task that usually requires an experienced typographer or typeface designer. Creating a custom axis involves defining what the axis will control, designing the typeface variations that correspond to different values along the axis, and correctly implementing these variations within the font file itself. This process involves using font creation software such as Glyphs, FontLab, or RoboFont, which allows the designer to draw, interpolate, and test custom variations, extending beyond simple parameter adjustments into the realm of creative and technical typeface design.
 
 ### Generative Models and Deep Learning
@@ -207,15 +213,30 @@ Our work using simple generative models showed that one can create a dataset of 
 
 ## "Text to Type" Foundational Models
 
-The development of a "Text to Type" foundational model represents a transformative leap in the field of typographic design, particularly for initiatives like the Cognitive Type project. This endeavor seeks to bridge the gap between the generative capabilities of current text-to-image models and the nuanced requirements of typography. While existing models can generate glyphs, they often lack the sophistication to understand typographic terminology, making it challenging to achieve the level of detail and consistency necessary for creating "Cognitive Type" or professional font families.
+The development of a "Text to Type" foundational model is set to significantly impact typographic design, especially for the Cognitive Type project. This initiative strives to bridge the gap between the generative capabilities of current text-to-image models and the intricate demands of typography. Although present models can produce glyphs, they often lack the sophistication to comprehend typographic terms fully, which impedes the creation of "Cognitive Type" or professional font families with the necessary detail and consistency.
 
-A "Text to Type" foundational model would not only understand typographic terms but also apply them in a manner that aligns with the principles of type design. Such a model would enable the generation of typefaces with specific characteristics—such as weight, width, slant, and x-height—by interpreting descriptive text inputs. This capability could revolutionize how designers approach typeface creation, making it more accessible to non-experts and facilitating the exploration of new design spaces. For the Cognitive Type project, this means the potential to rapidly prototype and test typefaces that are optimized for readability, legibility, and overall cognitive impact.
+Such a model would not only understand typographic terminology (see Figure 11) but also apply it according to type design principles. It would enable the creation of typefaces with specific attributes—such as weight, width, slant, and x-height—by interpreting descriptive text inputs. Examples include:
 
-Furthermore, the importance of a "Text to Type" model extends into the realm of cognitive science. By allowing for the systematic variation of typographic features, researchers could more efficiently study how these variations affect reading speed, comprehension, and aesthetic preference. This could lead to breakthroughs in our understanding of visual cognition and the development of typefaces tailored to specific reading contexts or audiences, such as individuals with dyslexia or low vision.
+- Create a serif 'a' with a single-story structure and closed aperture.
+- Design a slab serif 'g' with low stroke contrast and square terminals.
+- Produce a humanist 'E' with open apertures and a double-story structure.
+- Designing a lowercase 'a' with a slightly flared entry stroke and a pronounced curve at the top, suggestive of handwriting.
+- Creating a Cyrillic character set that harmonizes visually with existing Latin characters, using diagonal stress and similar stroke weights.
+- Designing a numeral '4' with a closed counter for better legibility at smaller sizes.
+- Generating swash characters for uppercase 'A' and 'E' that add decorative touches while preserving legibility.
+- 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/nikbearbrown/CognitiveType/main/Art/Cognitive_Type_Figure_11.png"></td>
+  </tr>
+</table>
+A "Text to Type" model could revolutionize typeface creation, making it more accessible to non-experts and opening new design possibilities. For the Cognitive Type project, it offers a chance to quickly prototype and test typefaces optimized for readability, legibility, and cognitive impact.
 
-Moreover, such a model would address a significant challenge in typographic design: the labor-intensive process of creating and refining typefaces. By automating aspects of the design process, a "Text to Type" model could drastically reduce the time and expertise required to develop new fonts, democratizing type design and enabling a wider range of creators to contribute to the field. This aligns with the broader goals of the Cognitive Type project, which aims to leverage technology to expand the boundaries of typographic innovation and application.
+The importance of a "Text to Type" model also extends to cognitive science, allowing for the systematic study of how typographic variations affect reading speed, comprehension, and aesthetic preference. This could lead to advances in visual cognition and the creation of typefaces tailored to specific audiences or conditions, such as dyslexia or low vision.
 
-In conclusion, the development of a "Text to Type" foundational model is crucial for advancing the goals of the Cognitive Type project. It promises to bring unprecedented efficiency, accessibility, and scientific rigor to the process of typeface design, opening up new possibilities for both designers and researchers. By bridging the gap between current generative technologies and the specific needs of typography, such a model could catalyze a new era of innovation in the field.
+Additionally, this model would address the labor-intensive nature of typeface creation and refinement. Automating parts of the design process would greatly reduce the time and expertise needed to develop new fonts, democratizing type design and allowing a wider range of creators to contribute. This aligns with the Cognitive Type project's goals to use technology to push the boundaries of typographic innovation and application.
+
+In conclusion, creating a "Text to Type" foundational model is crucial for the advancement of the Cognitive Type project. It is set to bring unprecedented efficiency, accessibility, and scientific rigor to typeface design, fostering new creative and research opportunities. By combining the powers of current generative technologies with the specific needs of typography, this model has the potential to spur a new era of innovation in the field.
 
 ## Summary
 
