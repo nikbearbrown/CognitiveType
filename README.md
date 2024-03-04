@@ -251,43 +251,46 @@ The Cognitive Type Project underscores the importance of typography in learning 
 However, the endeavor faces challenges, notably in the creation of new typefaces, as current text-to-image models lack the nuanced understanding of typography required for this task. The project advocates for the development of a "Text to Type" foundational model, which could revolutionize typeface design by making it accessible to a broader audience, including those without programming or typographic expertise. This model would facilitate the design of typefaces with precise cognitive objectives, contributing significantly to the fields of typography and cognitive science. In essence, the Cognitive Type Project is at the forefront of merging technological innovation with typographic design to explore how typography can optimize cognitive outcomes and information retention.
 
 ## References
+Here are the references sorted alphabetically:
 
-1. Beier, S., and Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? *Inf. Design J.*, 20, 16–31. doi: 10.1075/idj.20.1.02bei
-2. Beier, S., Sand, K., and Starrfelt, R. (2017). Legibility implications of embellished display typefaces. *Visible Lang.*, 51, 112–133.
-3. Bessemans, A. (2016a). Typefaces for children’s reading. *TMG J. Media Hist.*, 19, 1–9. doi: 10.18146/2213-7653.2016.268
-4. Bessemans, A. (2016b). Matilda: a typeface for children with low vision. *Digit. Fonts Reading* 2016, 8–34. doi: 10.1142/9789814759540_0002
-5. Bigelow, C. (2019). Typeface features and legibility research. *Vis. Res.*, 165, 162–172. doi: 10.1016/j.visres.2019.05.003
-6. Brath, R., and Banissi, E. (2016). Using typography to expand the design space of data visualization. *J Design Econ. Innov.*, 2, 59–87. doi: 10.1016/j.sheji.2016.05.003
-7. Celhay, F., Boysselle, J., and Cohen, J. (2015). Food packages and communication through typeface design: the exoticism of exotypes. *Food Qual. Prefer.*, 39, 167–175. doi: 10.1016/j.foodqual.2014.07.009
-8. Childers, T. L., and Jass, J. (2002). All dressed up with something to say: effects of typeface semantic associations on brand perceptions and consumer memory. *J. Consum. Psychol.*, 12, 93–106. doi: 10.1207/S15327663JCP1202_03
-10. Coles, S. (2013). *The Geometry of Type*. Thames & Hudson, UK.
-11. Dalmaijer, E.S., Mathôt, S., & Van der Stigchel, S. (2014). PyGaze: an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments. *Behavior Research Methods*, 46, 913-921. doi:10.3758/s13428-013-0422-2.
-12. Dressler, E. (2019). *Understanding the Effect of Font Type on Reading Comprehension/Memory Under Time-Constrains*. Omaha: University of Nebraska at Omaha.
-13. French, M. M. J.; Blood, A.; Bright, N. D.; Futak, D.; Grohmann, M. J.; Hasthorpe, A.; Heritage, J.; Poland, R. L.; Reece, S.; & Tabor J. (2013). Changing fonts in education: How the benefits vary with ability and dyslexia. *The Journal of Educational Research*, 106(4), 301-304. doi: 10.1080/00220671.2012.736430.
-14. Gasser, M., Haffeman, J. B. M., and Tan, R. (2005). The influence of font type on information recall. *N. Am. J. Psychol.*, 7, 181–188.
-15. Gasser, M.; Boeke, J.; Haffernan, M.; Tan, R. (2005). The influence of font type on information recall. *North American Journal of Psychology*, 7(2), 181-188.
-16. Halin, N. (2016). Distracted while reading? Changing to a hard-to-read font shields against the effects of environmental noise and speech on text memory. *Frontiers in Psychology*, 7(1196), 570 - 590. doi: 10.3389/fpsyg.2016.01196.
-17. Haralambous, Yannis. (2007). *Fonts & Encodings*. O’Reilly Press. ASIN: 0596102429.
-18. Hyndman, S. (2016). *Why Fonts Matter*. London: Virgin Books, An Imprint of Ebury Publishing.
-19. Issak, A. A., Kakkar, S., Goetz, S., Brown, N. B., & Harteveld, C. (2023, May). First TinyPapers track at The Eleventh International Conference on Learning Representations (ICLR). Kigali, Rwanda.
-20. Kanfer, R. & Ackerman, P. L. (1989). Motivation and cognitive abilities: An integrative/aptitude-treatment interaction approach to skill acquisition. *Journal of Applied Psychology*, 74, 657-690.
-21. Krafka K, Khosla A, Kellnhofer P, Kannan H, Bhandarkar S, Matusik W, & Torralba A. (2016). Eye Tracking for Everyone. *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
-22. Koch, E. B. (2012). Emotion in typographic design: an empirical examination. *Visible Lang.*, 46, 206–228.
-23. Larson, K., Hazlett, R. L., Chaparro, B. S., and Picard, R. W. (2006). Measuring the Aesthetics of Reading. Proceedings of HCI, People and Computers XX–Engage, 41–56.
-24. Larson, K., and Picard, R. (2005). The Aesthetics of Reading. Available at: https://affect.media.mit.edu/pdfs/05.larson-picard.pdf (Accessed June 6, 2022).
-25. Lewis, C., and Walker, P. (1989). Typographic influences on reading. *Br. J. Psychol.*, 80, 241–257. doi: 10.1111/j.2044-8295.1989.tb02317.x
-26. Mackiewicz, J. (2005). How to use five letterforms to gauge a typeface’s personality: a research-driven method. *J. Tech. Writ. Commun.*, 35, 291–315. doi: 10.2190/LQVLEJ9Y-1LRX-7
-27. Magre, N., & Brown, N. (2022, February). Typography-MNIST (TMNIST): An MNIST-Style Image Dataset to Categorize Glyphs and Font-Styles. arXiv. http://arxiv.org/abs/2202.08112
-29. McLean, R. (1997). *The Manual of Typography*. London: Thames and Hudson.
-30. McNamara, D. S., Kintsch, E., Butler-Songer, N., & Kintsch, W. (1996). Are good texts always better? Text coherence, background knowledge, and levels of understanding in learning from text. *Cognition and Instruction*, 14, 1–43.
-31. Mead, J. A., and Hardesty, D. M. (2018). Price font disfluency: anchoring effects on future price expectations. *J. Retail.*, 94, 102–112. doi: 10.1016/j.jretai.2017.09.003
-32. Oppenheimer, D. M., and Frank, M. C. (2008). A rose in any other font would not smell as sweet: effects of perceptual fluency on categorization. *Cognition*, 106, 1178–1194. doi: 10.1016/j.cognition.2007.05.010
-33. Price, J., McElroy, K., and Martin, N. J. (2016). The role of font size and font style in younger and older adults predicted and actual recall performance. *Aging Neuropsychol. Cogn.*, 23, 366–388. doi: 10.1080/13825585.2015.1102194
-34. Pušnik, N., Podlesek, A., and Možina, K. (2016). Typeface comparison − does the x-height of lower-case letters increased to the size of upper-case letters speed up recognition? *Int. J. Ind. Ergon.*, 54, 164–169. doi: 10.1016/j.ergon.2016.06.002
-35. Shaikh, A. D., Chaparro, B. S., and Fox, D. (2006). Perception of fonts: perceived personality traits and uses. *Usability News* 8.
-36. Tobii Pro (2017). *Tobii Studio User’s Manual (Version 3.4.8)*. Stockholm: Tobii AB.
-37. Velasco, C., Beh, E. J., Le, T., and Marmolejo-Ramos, F. (2018a). The shapes associated with the concept of ‘sweet and sour’ foods. *Food Qual. Prefer.*, 68, 250–257. doi: 10.1016/j.foodqual.2018.03.012
-38. Velasco, C., Woods, A. T., Marks, L. E., Cheok, A. D., and Spence, C. (2016). The semantic basis of taste-shape associations. *PeerJ*, 4, 1–23. doi: 10.7287/PEERJ.PREPRINTS.1366
-39. Wilkins, A., Cleave, R., Grayson, N., and Wilson, L. (2009). Typography for children may be inappropriately designed. *J. Res. Read.*, 32, 402–412. doi: 10.1111/j.1467-9817.2009.01402.x
-40. Woods, R. J., Davis, K., and Scharff, L. F. V. (2005). Effects of typeface and font size on legibility for children. *Am. J. Psychol. Res.*, 1, 86–102.
-41. Wu, R., Shah, E. D., and Kardes, F. R. (2019). “The struggle isn’t real”: how need for cognitive closure moderates inference from disfluency. *J. Bus. Res.*, 109, 585–594. doi: 10.1016/j.jbusres.2019.03.042
+- Beier, S., and Larson, K. (2013). How does typeface familiarity affect reading performance and reader preference? Inf. Design J., 20, 16–31. doi: 10.1075/idj.20.1.02bei
+- Beier, S., Sand, K., and Starrfelt, R. (2017). Legibility implications of embellished display typefaces. Visible Lang., 51, 112–133.
+- Bessemans, A. (2016a). Typefaces for children’s reading. TMG J. Media Hist., 19, 1–9. doi: 10.18146/2213-7653.2016.268
+- Bessemans, A. (2016b). Matilda: a typeface for children with low vision. Digit. Fonts Reading 2016, 8–34. doi: 10.1142/9789814759540_0002
+- Bigelow, C. (2019). Typeface features and legibility research. Vis. Res., 165, 162–172. doi: 10.1016/j.visres.2019.05.003
+- Brath, R., and Banissi, E. (2016). Using typography to expand the design space of data visualization. J Design Econ. Innov., 2, 59–87. doi: 10.1016/j.sheji.2016.05.003
+- Cinder: The Cinder Project Team.(2024) Cinder   [Software]. Cinder. https://libcinder.org/
+- Dalmaijer, E.S., Mathôt, S., & Van der Stigchel, S. (2014). PyGaze: an open-source, cross-platform toolbox for minimal-effort programming of eye tracking experiments. Behavior Research Methods, 46, 913-921. doi:10.3758/s13428-013-0422-2.
+- Dressler, E. (2019). Understanding the Effect of Font Type on Reading Comprehension/Memory Under Time-Constrains. Omaha: University of Nebraska at Omaha.
+- FontLab: FontLab Ltd.(2024) FontLab   [Software]. Available from https://www.fontlab.com/
+- French, M. M. J.; Blood, A.; Bright, N. D.; Futak, D.; Grohmann, M. J.; Hasthorpe, A.; Heritage, J.; Poland, R. L.; Reece, S.; & Tabor J. (2013). Changing fonts in education: How the benefits vary with ability and dyslexia. The Journal of Educational Research, 106(4), 301-304. doi: 10.1080/00220671.2012.736430.
+- Gasser, M.; Boeke, J.; Haffernan, M.; Tan, R. (2005). The influence of font type on information recall. North American Journal of Psychology, 7(2), 181-188.
+- Gasser, M., Haffeman, J. B. M., and Tan, R. (2005). The influence of font type on information recall. N. Am. J. Psychol., 7, 181–188.
+- Glyphs: Schneider, G., & Seifert, E.(2024) Glyphs   [Software]. Glyphs Mini GmbH. Available from https://glyphsapp.com/
+- Haralambous, Yannis. (2007). Fonts & Encodings. O’Reilly Press. ASIN: 0596102429.
+- Issak, A. A., Kakkar, S., Goetz, S., Brown, N. B., & Harteveld, C. (2023, May). First TinyPapers track at The Eleventh International Conference on Learning Representations (ICLR). Kigali, Rwanda.
+- Kanfer, R. & Ackerman, P. L. (1989). Motivation and cognitive abilities: An integrative/aptitude-treatment interaction approach to skill acquisition. Journal of Applied Psychology, 74, 657-690.
+- Krafka K, Khosla A, Kellnhofer P, Kannan H, Bhandarkar S, Matusik W, & Torralba A. (2016). Eye Tracking for Everyone. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- Larson, K., and Picard, R. (2005). The Aesthetics of Reading. Available at: https://affect.media.mit.edu/pdfs/05.larson-picard.pdf (Accessed June 6, 2022).
+- Larson, K., Hazlett, R. L., Chaparro, B. S., and Picard, R. W
+
+. (2006). Measuring the Aesthetics of Reading. Proceedings of HCI, People and Computers XX–Engage, 41–56.
+- Lewis, C., and Walker, P. (1989). Typographic influences on reading. Br. J. Psychol., 80, 241–257. doi: 10.1111/j.2044-8295.1989.tb02317.x
+- Magre, N., & Brown, N. (2022, February). Typography-MNIST (TMNIST): An MNIST-Style Image Dataset to Categorize Glyphs and Font-Styles. arXiv. http://arxiv.org/abs/2202.08112
+- McLean, R. (1997). The Manual of Typography. London: Thames and Hudson.
+- Metafont: Knuth, D. E.(2024) Metafont   [Software]. Stanford University. https://ctan.org/pkg/metafont?lang=en
+- Metaflop: Metaflop Project (2024) Metaflop [Software]. Available from http://www.metaflop.com/
+- Metapolator: Metapolator Project.(2024) Metapolator [Software]. Available from http://metapolator.com/
+- MetaPost: Hobby, J. D.(2024) MetaPost   [Software]. https://tug.org/metapost.html
+- NodeBox: Lieven van Velthoven and Frederik De Bleser.(2024) NodeBox   [Software]. NodeBox. https://www.nodebox.net/
+- OpenFrameworks: The openFrameworks Team.(2024) openFrameworks   [Software]. openFrameworks. https://openframeworks.cc/
+- Oppenheimer, D. M., and Frank, M. C. (2008). A rose in any other font would not smell as sweet: effects of perceptual fluency on categorization. Cognition, 106, 1178–1194. doi: 10.1016/j.cognition.2007.05.010
+- P5.js: McCarthy, L., et al.(2024) p5.js [Software]. Processing Foundation.https://p5js.org/
+- Price, J., McElroy, K., and Martin, N. J. (2016). The role of font size and font style in younger and older adults predicted and actual recall performance. Aging Neuropsychol. Cogn., 23, 366–388. doi: 10.1080/13825585.2015.1102194
+- Processing: Reas, C., & Fry, B.(2024) Processing   [Software]. Processing Foundation. https://processing.org/
+- Pušnik, N., Podlesek, A., and Možina, K. (2016). Typeface comparison − does the x-height of lower-case letters increased to the size of upper-case letters speed up recognition? Int. J. Ind. Ergon., 54, 164–169. doi: 10.1016/j.ergon.2016.06.002
+- RoboFont: Van Rossum, F.(2024) RoboFont   [Software]. UFO Tools. Available from https://robofont.com/
+- Tobii Pro (2017). Tobii Studio User’s Manual (Version 3.4.8). Stockholm: Tobii AB.
+- Variable Fonts (as a technology): OpenType 1.8.(2024) Variable Fonts [Technology]. OpenType Specification. Available from https://learn.microsoft.com/en-us/typography/opentype/otspec180/
+- Wilkins, A., Cleave, R., Grayson, N., and Wilson, L. (2009). Typography for children may be inappropriately designed. J. Res. Read., 32, 402–412. doi: 10.1111/j.1467-9817.2009.01402.x
+- Woods, R. J., Davis, K., and Scharff, L. F. V. (2005). Effects of typeface and font size on legibility for children. Am. J. Psychol. Res., 1, 86–102.
