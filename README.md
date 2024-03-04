@@ -16,7 +16,7 @@ However, the specific visual attributes of typefaces, such as serif styles or x-
 
 ## Assessing the Cognitive Properties of Text
 
-Assessing the cognitive properties of text involves a variety of established techniques (Krafka K, et al., 2016), each designed to measure how textual characteristics influence comprehension, recall, and engagement. These techniques include:
+Assessing the cognitive properties of text involves a variety of established techniques (Krafka K, et al., 2016; Dalmaijer, et al., 2014), each designed to measure how textual characteristics influence comprehension, recall, and engagement. These techniques include:
 
 - **Eye Tracking:** Measures where and for how long a reader looks at different parts of a text, providing insights into reading patterns, comprehension difficulties, and interests.
 - **Reading Speed Tests:** Evaluate how quickly text can be read while maintaining comprehension. This can help in understanding the legibility and readability of different fonts or layouts.
