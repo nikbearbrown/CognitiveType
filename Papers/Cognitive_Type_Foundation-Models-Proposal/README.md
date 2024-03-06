@@ -1,5 +1,4 @@
-# Open Source Foundation Models for Educational AI - A “Text to Type”
-Model for Cognitive Type**
+# Open Source Foundation Models for Educational AI - A “Text to Type” Model for Cognitive Type
 
 ** **
 
